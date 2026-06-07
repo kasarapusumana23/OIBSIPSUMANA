@@ -37,20 +37,4 @@ LEVEL2TASK2
 │
 └── Image
     └── sundar pichai.jpg
-```
 
----
-
-## 🎯 Learning Outcomes
-
-* Creating structured web pages using HTML
-* Designing modern layouts with CSS
-* Implementing responsive web design
-* Organizing content effectively
-* Improving UI/UX design skills
-
----
-
-## ⭐ Acknowledgement
-
-This project was developed as part of the **Oasis Infobyte Web Development Internship Program**.
