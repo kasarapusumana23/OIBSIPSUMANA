@@ -14,7 +14,7 @@ A responsive personal landing page created using HTML and CSS.
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL1TASK1/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK1/
 
 ---
 
@@ -26,7 +26,7 @@ A modern portfolio website showcasing personal details, skills, projects, and co
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL1TASK2/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK2/
 
 ---
 
@@ -38,7 +38,7 @@ A temperature converter website that converts values between Celsius, Fahrenheit
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL1TASK3/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK3/
 
 ---
 
@@ -52,7 +52,7 @@ A responsive calculator built using HTML, CSS, and JavaScript that performs basi
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL2TASK1/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK1/
 
 ---
 
@@ -64,7 +64,7 @@ A tribute page dedicated to Sundar Pichai, showcasing his biography, achievement
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL2TASK2/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK2/
 
 ---
 
@@ -76,7 +76,7 @@ A modern task management application that allows users to add, edit, delete, and
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL2TASK3/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK3/
 
 ---
 
@@ -88,7 +88,7 @@ A simple login authentication system built using HTML, CSS, JavaScript, and Loca
 
 ### 🌐 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL2TASK4/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK4/
 
 ---
 
