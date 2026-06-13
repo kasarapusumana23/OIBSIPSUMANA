@@ -1,23 +1,32 @@
-# 🔐 Lumora - Login Authentication System
+# 🔐 Lumora – Login Authentication System
 
-## 📖 Description
+## 🎯 Project Overview
 
-Lumora is a simple Login Authentication System developed using HTML, CSS, and JavaScript. The application allows users to register, log in using their credentials, access a protected dashboard, and securely log out.
+Lumora is a modern and responsive Login Authentication System developed using HTML, CSS, and JavaScript. The application allows users to register, log in, access a secure dashboard, and log out safely.
 
-This project demonstrates the fundamentals of authentication and user session management using Local Storage.
+The project demonstrates the fundamentals of authentication, user session management, form validation, and data storage using the Local Storage API.
 
 ---
 
 ## ✨ Features
 
-* User Registration
-* User Login
-* Credential Validation
-* Secure Dashboard Access
-* Logout Functionality
-* Responsive Design
-* Modern User Interface
-* Local Storage Authentication
+✅ User Registration
+
+✅ User Login
+
+✅ Authentication Validation
+
+✅ Secure Dashboard Access
+
+✅ Logout Functionality
+
+✅ Local Storage Integration
+
+✅ Responsive Design
+
+✅ Modern User Interface
+
+✅ User-Friendly Navigation
 
 ---
 
@@ -39,27 +48,78 @@ LEVEL2TASK4
 ├── register.html
 ├── dashboard.html
 ├── style.css
-└── script.js
+├── script.js
+└── README.md
 ```
 
 ---
 
-## 🎯 Learning Outcomes
+## 🚀 Live Demo
 
-* Form Validation
-* Authentication Concepts
-* Local Storage Usage
-* DOM Manipulation
-* Event Handling
-* Responsive Web Design
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL2TASK4/
 
 ---
 
+## 📚 Learning Outcomes
 
-## 🔑 How It Works
+* Authentication Fundamentals
+* Form Validation
+* DOM Manipulation
+* Event Handling
+* Local Storage Management
+* Responsive Web Design
+* User Interface Development
+* Session Handling Concepts
 
-1. Register a new account.
-2. Login using the registered credentials.
-3. Access the secure dashboard.
-4. Logout securely.
-5. Unauthorized users cannot access the dashboard directly.
+---
+
+## 🌟 Project Highlights
+
+### 📝 User Registration
+
+Allows new users to create an account by providing their credentials.
+
+### 🔑 Secure Login
+
+Validates user credentials before granting access to the protected dashboard.
+
+### 🛡️ Authentication System
+
+Ensures that only authenticated users can access restricted pages.
+
+### 🚪 Logout Functionality
+
+Users can securely log out and terminate their active session.
+
+### 💾 Local Storage Support
+
+User credentials and login states are managed using the browser's Local Storage API.
+
+### 📱 Responsive Design
+
+Provides a seamless experience across desktops, tablets, and mobile devices.
+
+---
+
+## 🌠 Why "Lumora"?
+
+The name **Lumora** combines the ideas of *light*, *clarity*, and *security*. It represents a secure gateway that allows users to access their accounts with confidence and simplicity.
+
+---
+
+## 🎨 Design Highlights
+
+* Clean and Modern Interface
+* Responsive Layout
+* User-Friendly Forms
+* Smooth Navigation Flow
+* Attractive Color Scheme
+* Minimalistic Design Approach
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of the **Oasis Infobyte Web Development Internship Program** to gain hands-on experience in authentication systems, front-end development, and user session management.
+
+---
