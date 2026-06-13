@@ -1,19 +1,24 @@
 # 🌐 Personal Landing Page
 
-## 📖 Description
+## 🎯 Project Overview
 
-A responsive Personal Landing Page developed using HTML and CSS. This project showcases a clean and attractive user interface designed to provide an introduction, highlight key information, and create a strong first impression for visitors.
+This project is a responsive and visually appealing Personal Landing Page developed using HTML and CSS. The landing page is designed to provide an engaging introduction, showcase creativity in web design, and deliver a smooth user experience across different devices.
 
 ---
 
 ## ✨ Features
 
-* Responsive Design
-* Modern User Interface
-* Attractive Layout
-* Navigation Menu
-* Smooth Styling with CSS
-* Mobile-Friendly Design
+✅ Clean and Modern User Interface
+
+✅ Responsive Design
+
+✅ Attractive Layout and Styling
+
+✅ Easy Navigation
+
+✅ Mobile-Friendly Design
+
+✅ Well-Structured HTML & CSS
 
 ---
 
@@ -26,9 +31,35 @@ A responsive Personal Landing Page developed using HTML and CSS. This project sh
 
 ## 📂 Project Structure
 
-```text id="d9h2h8"
+```text
 LEVEL1TASK1
 │
 ├── index.html
 ├── style.css
-└── Images
+├── Images/
+└── README.md
+```
+
+---
+
+## 🚀 Live Demo
+
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK1/
+
+---
+
+
+## 📚 Learning Outcomes
+
+* Understanding HTML page structure
+* Working with CSS styling and layouts
+* Creating responsive web pages
+* Improving UI/UX design skills
+* Organizing website content effectively
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of the **Oasis Infobyte Web Development Internship Program** to strengthen front-end web development skills through practical implementation.
+
