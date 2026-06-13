@@ -54,7 +54,7 @@ LEVEL1TASK2
 
 ## 🚀 Live Demo
 
-https://kasarapusumana23.github.io/OIBSIPSUMANA/LEVEL1TASK2/
+https://kasarapusumana23.github.io/OIBSIP_WEBDEV/LEVEL1TASK2/
 
 ---
 
